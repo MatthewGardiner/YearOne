@@ -1,0 +1,15 @@
+#!/bin/csh -f
+
+#This is my first shell script
+
+date
+
+echo
+
+echo
+
+echo Users Currently Logged In
+
+echo ----------------------
+
+who

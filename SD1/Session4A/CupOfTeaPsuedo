@@ -1,0 +1,46 @@
+Open cupboard with mugs in
+     Collect mug from cupboard
+     if teabags are in same cupboard then
+     	Collect a teabag from cupboard
+	Close cupboard
+     Else
+     Close cupboard
+
+if kettle is empty then
+   	fill up kettle with water
+   	put the kettle back
+   	turn on the kettle
+else
+	turn on the kettle
+
+put the teabag in the mug
+
+add water till the mug is 90% full
+
+if user wants sugar then
+   Open cupboard with mugs in
+   Collect the pot or bag of sugar
+   Close cupboard
+   Open drawer and get teaspoon
+   Close drawer
+   add x teaspoons of sugar to the mug (loop)
+else
+   Move to next step
+
+Stir drink
+     Dunk teabag x many times (loop)
+
+if user wants milk
+   open fridge
+   collect milk
+   close fridge
+   	 Take off lid on milk and pour in desired amount
+	 Put lid back on
+	 open fridge and put milk back in
+	 close fridge
+     remove teabag using teaspoon and bin teabag
+else
+	remove teabag using teaspoon and bin teabag
+	stir the drink
+
+end

@@ -1,0 +1,11 @@
+#!/bin/csh -f
+
+#this is a program to show how variables can be added by using arguments
+
+echo "This script is called $0"
+
+@ addition = 0
+
+@ addition = ($1 = $2 = $3)
+
+echo "the sum of the parameters is $addition"

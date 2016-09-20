@@ -1,0 +1,14 @@
+for every car
+    for each system
+    	run tests
+	if test pass then
+	   tick checklist
+	else
+	   cross checklist
+
+	return checklist results
+
+	if checklist has crosses then
+	   send the vehicle back for repairs
+	else
+	   vehicle has passed, can continue

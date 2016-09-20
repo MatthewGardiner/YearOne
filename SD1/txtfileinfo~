@@ -1,0 +1,13 @@
+#!/bin/csh -f
+
+#This program displays information about text files
+
+foreach filename (*.txt)
+
+echo --------------------
+
+ls -l $filename
+
+end
+
+echo "This is the end of the search

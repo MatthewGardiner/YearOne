@@ -1,0 +1,11 @@
+#!bin/csh -f
+
+foreach wordcount (*.txt)
+
+echo -----------------
+
+wc $wordcount
+
+end
+
+echo "This is the end of the search"

@@ -1,0 +1,6 @@
+M:\SD1\TestPrograms\NetMessage.cs\NetMessage.cs\bin\Debug\NetMessage.cs.exe.config
+M:\SD1\TestPrograms\NetMessage.cs\NetMessage.cs\bin\Debug\NetMessage.cs.exe
+M:\SD1\TestPrograms\NetMessage.cs\NetMessage.cs\bin\Debug\NetMessage.cs.pdb
+M:\SD1\TestPrograms\NetMessage.cs\NetMessage.cs\obj\Debug\NetMessage.cs.exe
+M:\SD1\TestPrograms\NetMessage.cs\NetMessage.cs\obj\Debug\NetMessage.cs.pdb
+M:\SD1\TestPrograms\NetMessage.cs\NetMessage.cs\obj\Debug\MyApp.csprojResolveAssemblyReference.cache

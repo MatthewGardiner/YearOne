@@ -1,0 +1,27 @@
+#!/bin/csh -f
+
+#This program checks whether the filename passed to the script is a plain file
+
+#If it is, it changes the name of the file set by the user
+
+#If the new name already exists then the operation is aborted
+
+if (-f $1) then
+
+set fromfile = isafile
+
+else
+
+set fromfile = isnotafile
+
+echo rename failed as $1 is not a file
+
+endif
+
+if (-f $2) then
+
+echo renamed as $2 already exists
+
+else mv $1 $2
+
+endif
